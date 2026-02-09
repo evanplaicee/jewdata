@@ -1,6 +1,6 @@
-# [Jewdata](https://jumpcrypto.com/firedancer/) 🔥
+# [ClawValid](https://jumpcrypto.com/firedancer/) 🔥
 
-Jewdata is a new data validator client for decentralized data protection and storage.
+ClawValid is a new data validator client for decentralized data protection and storage.
 
 * **Fast** Designed from the ground up to be *fast*. The concurrency
 model draws from experience in the low latency trading space, and the code
